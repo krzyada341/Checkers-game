@@ -1,0 +1,76 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\krzysio\\source\\repos\\de373c4d-gr11-repo\\projekt\\warcaby pk4\\warcaby pk4\\main.cpp",
+        "ProvidedModule": "",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "pola",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\pola.ixx.ifc"
+            },
+            {
+                "Name": "pola:bierka",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\pola-bierka.ixx.ifc"
+            },
+            {
+                "Name": "pola:damka",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\pola-damka.ixx.ifc"
+            },
+            {
+                "Name": "pola:niemozliwe",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\pola-niemozliwe.ixx.ifc"
+            },
+            {
+                "Name": "pola:pole",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\pola-pole.ixx.ifc"
+            },
+            {
+                "Name": "pola:puste",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\pola-puste.ixx.ifc"
+            },
+            {
+                "Name": "Warcabnica",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\Warcabnica.ixx.ifc"
+            },
+            {
+                "Name": "ruch",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\ruch.ixx.ifc"
+            },
+            {
+                "Name": "timer",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\timer.ixx.ifc"
+            },
+            {
+                "Name": "regexMail",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\regexMail.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\iostream",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\iostream_QAGGE4B12ZC9CRFI.ifc"
+            },
+            {
+                "Header": "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\thread",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\thread_1E9HWK217XXV9P5D.ifc"
+            },
+            {
+                "Header": "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\chrono",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\chrono_JVVUV0PNDU57C8LU.ifc"
+            },
+            {
+                "Header": "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\future",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\future_TH4WJOWDT863HI55.ifc"
+            },
+            {
+                "Header": "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\memory",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\memory_KH93WI07VZ0P2KCY.ifc"
+            },
+            {
+                "Header": "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\vector",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\vector_6EZALSF1QQ9PMXRF.ifc"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\krzysio\\source\\repos\\de373c4d-gr11-repo\\projekt\\warcaby pk4\\warcaby pk4\\pola-niemozliwe.ixx",
+        "ProvidedModule": "pola:niemozliwe",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "pola:pole",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\pola-pole.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\iostream",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\iostream_QAGGE4B12ZC9CRFI.ifc"
+            }
+        ]
+    }
+}

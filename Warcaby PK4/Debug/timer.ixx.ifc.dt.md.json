@@ -1,0 +1,18 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\krzysio\\source\\repos\\de373c4d-gr11-repo\\projekt\\warcaby pk4\\warcaby pk4\\timer.ixx",
+        "ProvidedModule": "timer",
+        "ImportedModules": [
+            "pola",
+            "Warcabnica",
+            "ruch"
+        ],
+        "ImportedHeaderUnits": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\iostream",
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\thread",
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\chrono",
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\future"
+        ]
+    }
+}

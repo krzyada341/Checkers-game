@@ -1,0 +1,36 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\krzysio\\source\\repos\\de373c4d-gr11-repo\\projekt\\warcaby pk4\\warcaby pk4\\ruch.ixx",
+        "ProvidedModule": "ruch",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "Warcabnica",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\Warcabnica.ixx.ifc"
+            },
+            {
+                "Name": "pola:pole",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\pola-pole.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\iostream",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\iostream_QAGGE4B12ZC9CRFI.ifc"
+            },
+            {
+                "Header": "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\memory",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\memory_KH93WI07VZ0P2KCY.ifc"
+            },
+            {
+                "Header": "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\cctype",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\cctype_UF7N4U2FVOQKT234.ifc"
+            },
+            {
+                "Header": "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\vector",
+                "BMI": "C:\\Users\\Krzysio\\source\\repos\\de373c4d-gr11-repo\\Projekt\\Warcaby PK4\\Warcaby PK4\\Debug\\vector_6EZALSF1QQ9PMXRF.ifc"
+            }
+        ]
+    }
+}
